@@ -2,4 +2,6 @@ pip install boto3
 pip install matplotlib
 pip install pandas
 
-python \cloudlabs\lab2.py
+cd cloudlabs
+
+python lab2.py
