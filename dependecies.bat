@@ -5,3 +5,5 @@ pip install pandas
 cd cloudlabs
 
 python lab2.py
+
+cd ..
